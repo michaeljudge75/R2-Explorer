@@ -3,7 +3,7 @@
 Read this in other languages: [Español](READMEes.md), [Português](READMEpt.md), [Français](READMEfr.md)
 
 # R2-Explorer
- 
+
 <p align="center">
     <em>A Google Drive Interface for your Cloudflare R2 Buckets!</em>
 </p>
